@@ -86,5 +86,9 @@ Metric
 ### 데이터가 저장되는 형태
 **ERD**<br>
     데이터베이스 구조를 한눈에 알아보기 위해 사용
+    ![image](https://github.com/user-attachments/assets/65e89355-2641-40ff-ae5b-198953803a1b)
+
 
 **ERD 예시 - Pokemon**
+![image](https://github.com/user-attachments/assets/ba33067d-c3d7-44be-ad33-291d2b521eed)
+
