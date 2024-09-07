@@ -20,15 +20,15 @@
 
 ### OLAP
 - OLTP로 데이터 분석을 하다가 속도, 기능 부족의 이슈로 OLAP 등장
-- ***OLAP***: Online Analytical Processing
-> ***데이터 웨어하우스***<br>
-    데이터를 한 곳에 모아서 저장<br>
-    여러곳에 저장된 데이터 예시 (Database, 웹, 파일 api 결과 등)
+- **OLAP**: Online Analytical Processing
+> **데이터 웨어하우스**<br>
+데이터를 한 곳에 모아서 저장<br>
+여러곳에 저장된 데이터 예시 (Database, 웹, 파일 api 결과 등)
 
 ### BigQuery
 Google Cloud의 OLAP + Data Warehouse
 
-***장점***
+**장점**
 1. 난이도<br>
 SQL을 사용해 쉽게 데이터 추출 가능
 2. 속도<br>
@@ -63,10 +63,13 @@ OLAP 도구이므로 속도가 빠름
 
 
 ## 3. 데이터 활용 Overview
-***데이터를 활용하는 과정***
+**데이터를 활용하는 과정**
+
+![image](https://github.com/user-attachments/assets/67c89144-e930-483d-84ae-d794be96b819)
+
 > 문제 정의<br>
-    MECE: 중복이 없고 상호배제적<br>
-    So What?, Why so?
+**MECE**: 중복이 없고 상호배제적<br>
+So What?, Why so?
 
 > 지표 정의<br>
-    Metric
+Metric
