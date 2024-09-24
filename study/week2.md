@@ -16,6 +16,12 @@ ORDER BY
 ```
 ![image](https://github.com/user-attachments/assets/eb800d3c-23f2-4cd4-b90e-8c883e676072)
 
+> 배운 점
+
+`HAVING orders >= 100`은 판매자가 처리한 주문 수가 100건 이상인 판매자만 필터링 가능
+
+`WHERE 절`과 다르게 집계 함수가 계산된 후의 결과에 조건을 적용
+
 
 ## 문제 2
 ### 몇 분이서 오셨어요?
